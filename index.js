@@ -3,5 +3,5 @@ function scuberGreetingForFeet()
 {
 let someValue;
 
-if (someValue)
+if (someValue <= )
 }
