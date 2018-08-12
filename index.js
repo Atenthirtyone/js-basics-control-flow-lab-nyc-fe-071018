@@ -3,4 +3,5 @@ function scuberGreetingForFeet()
 {
 let someValue;
 
+if (someValue)
 }
