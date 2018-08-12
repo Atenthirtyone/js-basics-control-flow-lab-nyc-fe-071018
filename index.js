@@ -1,2 +1,5 @@
 // Write your code in this file!
-function scuberGree
+function scuberGreetingForFeet() 
+{
+
+}
